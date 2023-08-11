@@ -9,7 +9,7 @@ public class FactorialTest {
 
   @Test
   @DisplayName("Factorial")
-  void testFactorialzero() {
+  void testFactorialZero() {
 
     FactorialInterface fac = new Factorial();
 
